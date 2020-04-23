@@ -1,7 +1,7 @@
 
 #Define all paths, constants here
-PROJECT_DIR='/Users/mayuri/CODE/AndroidBuildAutomationSample/'
-OUTPUT_DIR='/Users/mayuri/CODE/AndroidBuildAutomationSample/OUTPUT_DIR/'
+PROJECT_DIR='/Users/sandeeppadala/AndroidStudioProjects/AndroidBuildAutomation/'
+OUTPUT_DIR='/Users/sandeeppadala/AndroidStudioProjects/AndroidBuildAutomation/OUTPUT_DIR/'
 
 # Functions for customizing colors(Optional)
 print_red(){
